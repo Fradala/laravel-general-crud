@@ -26,6 +26,10 @@
                 <div>
                     <h1>
                         There are no Pokemons to show 
+
+
+
+                        
                     </h1>
                 </div>
             @endforelse
